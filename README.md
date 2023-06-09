@@ -1,5 +1,5 @@
-# Doctors_as_Data_Scientists
-#R studio based teaching material designed for BMBS students
+<H1>Doctors_as_Data_Scientists<H1>
+<H2>R studio based teaching material designed for BMBS students<H2>
 #Please refer to four files
 #FILE ONE: The Doctors_as_data_Scientists_providers_readme provides a guide for potential providers.
 #FILE TWO: Doctors_As_Data_Scientists_BMBS_introduction is a powerpoint presentation providing a brief introduction to students
