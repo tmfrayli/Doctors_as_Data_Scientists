@@ -9,5 +9,5 @@ Please refer to four files
 
 [Doctors_As_datascientists_SESSION1_2hours](https://github.com/tmfrayli/Doctors_as_Data_Scientists/blob/main/Doctors_As_datascientists_SESSION1_2hours.docx) is a worksheet for session 1, a ~ 2 hour session
 
-[Doctors_As_Data_Scientists_SESSION2_and_3_4 hours]() is a worksheet for session 2 - 3 , 2x2 hour sessions or 1x4 hour session
+[Doctors_As_Data_Scientists_SESSION2_and_3_4 hours](https://github.com/tmfrayli/Doctors_as_Data_Scientists/blob/main/Doctors_As_Data_Scientists_SESSION2_and_3_4%20hours.docx) is a worksheet for session 2 - 3 , 2x2 hour sessions or 1x4 hour session
  
