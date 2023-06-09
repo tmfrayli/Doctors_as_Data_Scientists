@@ -3,9 +3,9 @@
 
 Please refer to four files
 
-FILE ONE: [The Doctors_as_data_Scientists_providers_readme provides a guide for potential providers.](https://github.com/tmfrayli/Doctors_as_Data_Scientists/blob/main/Doctors_as_data_Scientists_providers_readme.docx)
+FILE ONE: [The Doctors_as_data_Scientists_providers readme](https://github.com/tmfrayli/Doctors_as_Data_Scientists/blob/main/Doctors_as_data_Scientists_providers_readme.docx) provides a guide for potential providers.
 
-FILE TWO: [Doctors_As_Data_Scientists_BMBS_introduction is a powerpoint presentation providing a brief introduction to students](https://github.com/tmfrayli/Doctors_as_Data_Scientists/blob/main/Doctors_As_Data_Scientists_BMBS_introduction.pptx)
+FILE TWO: [Doctors_As_Data_Scientists_BMBS_introduction](https://github.com/tmfrayli/Doctors_as_Data_Scientists/blob/main/Doctors_As_Data_Scientists_BMBS_introduction.pptx) is a powerpoint presentation providing a brief introduction to students 
 
 FILE THREE: Doctors_As_datascientists_SESSION1_2hours is a worksheet for session 1, a ~ 2 hour session
 
